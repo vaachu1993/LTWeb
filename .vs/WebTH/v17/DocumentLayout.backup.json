@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\WebTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\webth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\webth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\migrations\\20250313063249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\migrations\\20250313063249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|c:\\c#\\webth\\webth\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4FB399-DBD7-4F81-8EB4-93580CF4101A}|WebTH\\WebTH.csproj|solutionrelative:webth\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:00:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebTH",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\WebTH.csproj",
+              "RelativeDocumentMoniker": "WebTH\\WebTH.csproj",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\WebTH.csproj",
+              "RelativeToolTip": "WebTH\\WebTH.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T08:50:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebTH\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebTH\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T08:13:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebTH\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebTH\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:50:21.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T08:04:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:20:50.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebTH\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebTH\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:12:46.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:04:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:01:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:00:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T06:59:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTH\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebTH\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T06:55:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebTH\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebTH\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:51:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebTH\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "WebTH\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:37:58.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "WebTH\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "WebTH\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:37:05.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebTH\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebTH\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:36:24.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebTH\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebTH\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:35:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250313063249_Initial.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Migrations\\20250313063249_Initial.cs",
+              "RelativeDocumentMoniker": "WebTH\\Migrations\\20250313063249_Initial.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Migrations\\20250313063249_Initial.cs",
+              "RelativeToolTip": "WebTH\\Migrations\\20250313063249_Initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:32:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTH\\appsettings.json",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\appsettings.json",
+              "RelativeToolTip": "WebTH\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T06:30:45.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Program.cs",
+              "RelativeDocumentMoniker": "WebTH\\Program.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Program.cs",
+              "RelativeToolTip": "WebTH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:29:34.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebTH\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebTH\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:29:09.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebTH\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebTH\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:36.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebTH\\Models\\Category.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Models\\Category.cs",
+              "RelativeToolTip": "WebTH\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:27:35.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#\\WebTH\\WebTH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebTH\\Models\\Product.cs",
+              "ToolTip": "C:\\C#\\WebTH\\WebTH\\Models\\Product.cs",
+              "RelativeToolTip": "WebTH\\Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:26:03.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
